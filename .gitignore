@@ -22,12 +22,6 @@ rad.json
 #Test results file
 TestResults.xml
 
-Assembly-CSharp.csproj
+#Unity liblary
 Library/
-Logs/
-Packages/
-ProjectSettings/
-Temp/
-UserSettings/
-cell.sln
-obj/
+

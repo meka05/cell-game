@@ -401,7 +401,7 @@ MonoBehaviour:
   bullet: {fileID: 8071750760017976671, guid: 6888b209e7d92cc45b7d59eded6be304, type: 3}
   playerTransform: {fileID: 80226263}
   canFire: 1
-  timeBetweenFiring: 0.1
+  timeBetweenFiring: 0.2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
