@@ -23,6 +23,7 @@ rad.json
 TestResults.xml
 
 #Unity liblary
+Logs/
 Library/
 Temp/
 
